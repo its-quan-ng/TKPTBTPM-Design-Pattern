@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225461_NguyenThiBichQuan_Pattern16_Iterator", "DPM225461_NguyenThiBichQuan_Pattern16_Iterator.csproj", "{ED0F0B49-6A29-49B7-BB15-6766BB5ADBB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0F0B49-6A29-49B7-BB15-6766BB5ADBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0F0B49-6A29-49B7-BB15-6766BB5ADBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0F0B49-6A29-49B7-BB15-6766BB5ADBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0F0B49-6A29-49B7-BB15-6766BB5ADBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D26526DB-5AFD-4CE7-BA0E-C1DE85FDE406}
+	EndGlobalSection
+EndGlobal

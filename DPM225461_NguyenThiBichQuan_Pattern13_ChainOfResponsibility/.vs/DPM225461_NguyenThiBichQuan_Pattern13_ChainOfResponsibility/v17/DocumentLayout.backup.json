@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern13_chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern13_chainofresponsibility\\concretehandler3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|solutionrelative:concretehandler3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern13_chainofresponsibility\\concretehandler2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|solutionrelative:concretehandler2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern13_chainofresponsibility\\concretehandler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|solutionrelative:concretehandler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern13_chainofresponsibility\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85F4D3-7348-4890-A39E-F72E3A6692CC}|DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility.csproj|solutionrelative:handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteHandler3.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\ConcreteHandler3.cs",
+              "RelativeDocumentMoniker": "ConcreteHandler3.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\ConcreteHandler3.cs",
+              "RelativeToolTip": "ConcreteHandler3.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:06:37.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcreteHandler2.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\ConcreteHandler2.cs",
+              "RelativeDocumentMoniker": "ConcreteHandler2.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\ConcreteHandler2.cs",
+              "RelativeToolTip": "ConcreteHandler2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:06:05.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcreteHandler1.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\ConcreteHandler1.cs",
+              "RelativeDocumentMoniker": "ConcreteHandler1.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\ConcreteHandler1.cs",
+              "RelativeToolTip": "ConcreteHandler1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:05:47.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\Handler.cs",
+              "RelativeDocumentMoniker": "Handler.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\Handler.cs",
+              "RelativeToolTip": "Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:05:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern13_ChainOfResponsibility\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:04:57.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

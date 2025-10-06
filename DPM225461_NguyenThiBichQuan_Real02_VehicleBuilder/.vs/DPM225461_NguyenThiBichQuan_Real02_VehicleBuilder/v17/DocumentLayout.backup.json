@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real02_vehiclebuilder\\vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|solutionrelative:vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real02_vehiclebuilder\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real02_vehiclebuilder\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real02_vehiclebuilder\\scooterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|solutionrelative:scooterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\scooterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:scooterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real02_vehiclebuilder\\motorcyclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder.csproj|solutionrelative:motorcyclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\motorcyclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:motorcyclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real02_vehiclebuilder\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real02_vehiclebuilder\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB009D-8BB8-4AA4-9C0E-179E77E20D96}|DPM225461_NguyenThiBichQuan_Real02_Builder.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:30:50.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScooterBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\ScooterBuilder.cs",
+              "RelativeDocumentMoniker": "ScooterBuilder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\ScooterBuilder.cs",
+              "RelativeToolTip": "ScooterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:30:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotorCycleBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\MotorCycleBuilder.cs",
+              "RelativeDocumentMoniker": "MotorCycleBuilder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\MotorCycleBuilder.cs",
+              "RelativeToolTip": "MotorCycleBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:30:50.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\VehicleBuilder.cs",
+              "RelativeDocumentMoniker": "VehicleBuilder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\VehicleBuilder.cs",
+              "RelativeToolTip": "VehicleBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:30:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:30:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:30:08.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:50:26.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScooterBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\ScooterBuilder.cs",
+              "RelativeDocumentMoniker": "ScooterBuilder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\ScooterBuilder.cs",
+              "RelativeToolTip": "ScooterBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:48:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "CarBuilder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\CarBuilder.cs",
+              "RelativeToolTip": "CarBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:45:43.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotorCycleBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\MotorCycleBuilder.cs",
+              "RelativeDocumentMoniker": "MotorCycleBuilder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\MotorCycleBuilder.cs",
+              "RelativeToolTip": "MotorCycleBuilder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:40:36.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:36:00.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\VehicleBuilder.cs",
+              "RelativeDocumentMoniker": "VehicleBuilder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\VehicleBuilder.cs",
+              "RelativeToolTip": "VehicleBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:31:28.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real02_VehicleBuilder\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:31:01.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

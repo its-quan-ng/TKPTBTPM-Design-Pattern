@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern07_bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern07_bridge\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|solutionrelative:abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern07_bridge\\implementor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|solutionrelative:implementor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern07_bridge\\refinedabstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|solutionrelative:refinedabstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern07_bridge\\concreteimplementorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|solutionrelative:concreteimplementorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern07_bridge\\concreteimplementora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0121743-3CCA-47AC-80F3-02A25B02907E}|DPM225461_NguyenThiBichQuan_Pattern07_Bridge.csproj|solutionrelative:concreteimplementora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteImplementorB.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\ConcreteImplementorB.cs",
+              "RelativeDocumentMoniker": "ConcreteImplementorB.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\ConcreteImplementorB.cs",
+              "RelativeToolTip": "ConcreteImplementorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:23:41.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteImplementorA.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\ConcreteImplementorA.cs",
+              "RelativeDocumentMoniker": "ConcreteImplementorA.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\ConcreteImplementorA.cs",
+              "RelativeToolTip": "ConcreteImplementorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:22:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefinedAbstraction.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\RefinedAbstraction.cs",
+              "RelativeDocumentMoniker": "RefinedAbstraction.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\RefinedAbstraction.cs",
+              "RelativeToolTip": "RefinedAbstraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:21:57.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Implementor.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\Implementor.cs",
+              "RelativeDocumentMoniker": "Implementor.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\Implementor.cs",
+              "RelativeToolTip": "Implementor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:21:11.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\Abstraction.cs",
+              "RelativeDocumentMoniker": "Abstraction.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\Abstraction.cs",
+              "RelativeToolTip": "Abstraction.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:19:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern07_Bridge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:18:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

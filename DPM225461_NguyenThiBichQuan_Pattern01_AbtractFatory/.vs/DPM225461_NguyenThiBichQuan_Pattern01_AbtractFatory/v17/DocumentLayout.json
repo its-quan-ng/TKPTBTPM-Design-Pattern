@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\producta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:producta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\producta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:producta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\producta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:producta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\concretefactory2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:concretefactory2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\productb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:productb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\productb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:productb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\productb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:productb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\productb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:productb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\producta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:producta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\concretefactory2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:concretefactory2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\concretefactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:concretefactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\abstractproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:abstractproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\abstractproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:abstractproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\abstractproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:abstractproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\abstractproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:abstractproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM2254641_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern01_abtractfatory\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4EBAD-AA5A-4E49-9A8A-83357EBFFB8E}|DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductB2.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB2.cs",
+              "RelativeDocumentMoniker": "ProductB2.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB2.cs",
+              "RelativeToolTip": "ProductB2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductA2.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA2.cs",
+              "RelativeDocumentMoniker": "ProductA2.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA2.cs",
+              "RelativeToolTip": "ProductA2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcreteFactory2.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ConcreteFactory2.cs",
+              "RelativeDocumentMoniker": "ConcreteFactory2.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ConcreteFactory2.cs",
+              "RelativeToolTip": "ConcreteFactory2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductB1.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB1.cs",
+              "RelativeDocumentMoniker": "ProductB1.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB1.cs",
+              "RelativeToolTip": "ProductB1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductA1.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA1.cs",
+              "RelativeDocumentMoniker": "ProductA1.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA1.cs",
+              "RelativeToolTip": "ProductA1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractFactory.cs",
+              "RelativeToolTip": "AbstractFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AbstractProductB.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductB.cs",
+              "RelativeDocumentMoniker": "AbstractProductB.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductB.cs",
+              "RelativeToolTip": "AbstractProductB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AbstractProductA.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductA.cs",
+              "RelativeDocumentMoniker": "AbstractProductA.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductA.cs",
+              "RelativeToolTip": "AbstractProductA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:11.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:47:14.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:26:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductB2.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB2.cs",
+              "RelativeDocumentMoniker": "ProductB2.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB2.cs",
+              "RelativeToolTip": "ProductB2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:25:31.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductA2.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA2.cs",
+              "RelativeDocumentMoniker": "ProductA2.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA2.cs",
+              "RelativeToolTip": "ProductA2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:25:09.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConcreteFactory2.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ConcreteFactory2.cs",
+              "RelativeDocumentMoniker": "ConcreteFactory2.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ConcreteFactory2.cs",
+              "RelativeToolTip": "ConcreteFactory2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:23:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductB1.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB1.cs",
+              "RelativeDocumentMoniker": "ProductB1.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductB1.cs",
+              "RelativeToolTip": "ProductB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:22:25.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductA1.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA1.cs",
+              "RelativeDocumentMoniker": "ProductA1.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ProductA1.cs",
+              "RelativeToolTip": "ProductA1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:21:30.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConcreteFactory1.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ConcreteFactory1.cs",
+              "RelativeDocumentMoniker": "ConcreteFactory1.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\ConcreteFactory1.cs",
+              "RelativeToolTip": "ConcreteFactory1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:19:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AbstractProductB.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductB.cs",
+              "RelativeDocumentMoniker": "AbstractProductB.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductB.cs",
+              "RelativeToolTip": "AbstractProductB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:18:43.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AbstractProductA.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductA.cs",
+              "RelativeDocumentMoniker": "AbstractProductA.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractProductA.cs",
+              "RelativeToolTip": "AbstractProductA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:18:21.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\AbstractFactory.cs",
+              "RelativeToolTip": "AbstractFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:17:31.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern01_AbtractFatory\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:16:07.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern06_adapter\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|solutionrelative:adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern06_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern06_adapter\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|solutionrelative:target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_pattern06_adapter\\adaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025C868-48C7-417C-AD84-46D0D961677A}|DPM225461_NguyenThiBichQuan_Pattern06_Adapter.csproj|solutionrelative:adaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adaptee.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Adaptee.cs",
+              "RelativeDocumentMoniker": "Adaptee.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Adaptee.cs",
+              "RelativeToolTip": "Adaptee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:46:18.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Adapter.cs",
+              "RelativeDocumentMoniker": "Adapter.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Adapter.cs",
+              "RelativeToolTip": "Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:45:35.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Target.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Target.cs",
+              "RelativeDocumentMoniker": "Target.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Target.cs",
+              "RelativeToolTip": "Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:44:54.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Pattern06_Adapter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:44:34.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿
+using System;
+
+namespace DPM225461_NguyenThiBichQuan_Real03_Page
+{
+    class MainApp
+    {
+        static void Main(string[] args)
+        {
+            Document[] documents = new Document[2];
+
+            documents[0] = new Resume();
+            documents[1] = new Report();
+
+            foreach(Document document in documents)
+            {
+                Console.WriteLine("\n" + document.GetType().Name + "--");
+                foreach (Page page in document.Pages) 
+                {
+                    Console.WriteLine("" + page.GetType().Name);
+                }
+            }
+            Console.ReadKey();
+
+        }
+    }
+}

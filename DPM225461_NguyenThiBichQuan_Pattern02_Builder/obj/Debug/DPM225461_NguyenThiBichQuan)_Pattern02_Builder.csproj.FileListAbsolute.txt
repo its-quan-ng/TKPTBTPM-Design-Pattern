@@ -1,0 +1,7 @@
+Z:\DPM225461_NguyenThiBichQuan)_Pattern02_Builder\obj\Debug\DPM225461_NguyenThiBichQuan)_Pattern02_Builder.csproj.AssemblyReference.cache
+Z:\DPM225461_NguyenThiBichQuan)_Pattern02_Builder\obj\Debug\DPM225461_NguyenThiBichQuan)_Pattern02_Builder.csproj.CoreCompileInputs.cache
+Z:\DPM225461_NguyenThiBichQuan)_Pattern02_Builder\bin\Debug\DPM225461_NguyenThiBichQuan)_Pattern02_Builder.exe.config
+Z:\DPM225461_NguyenThiBichQuan)_Pattern02_Builder\bin\Debug\DPM225461_NguyenThiBichQuan)_Pattern02_Builder.exe
+Z:\DPM225461_NguyenThiBichQuan)_Pattern02_Builder\bin\Debug\DPM225461_NguyenThiBichQuan)_Pattern02_Builder.pdb
+Z:\DPM225461_NguyenThiBichQuan)_Pattern02_Builder\obj\Debug\DPM225461_NguyenThiBichQuan)_Pattern02_Builder.exe
+Z:\DPM225461_NguyenThiBichQuan)_Pattern02_Builder\obj\Debug\DPM225461_NguyenThiBichQuan)_Pattern02_Builder.pdb

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|z:\\dpm225461_nguyenthibichquan_pattern03_factorymethod\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|z:\\dpm225461_nguyenthibichquan_pattern03_factorymethod\\concreteproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|solutionrelative:concreteproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|z:\\dpm225461_nguyenthibichquan_pattern03_factorymethod\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|z:\\dpm225461_nguyenthibichquan_pattern03_factorymethod\\concretecreatorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|solutionrelative:concretecreatorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|z:\\dpm225461_nguyenthibichquan_pattern03_factorymethod\\concretecreatora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|solutionrelative:concretecreatora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|z:\\dpm225461_nguyenthibichquan_pattern03_factorymethod\\concreteproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|solutionrelative:concreteproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|z:\\dpm225461_nguyenthibichquan_pattern03_factorymethod\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99270690-7D17-438F-BCDD-339AD3749F22}|DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcreteCreatorB.cs",
+              "DocumentMoniker": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteCreatorB.cs",
+              "RelativeDocumentMoniker": "ConcreteCreatorB.cs",
+              "ToolTip": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteCreatorB.cs",
+              "RelativeToolTip": "ConcreteCreatorB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:18:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteCreatorA.cs",
+              "DocumentMoniker": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteCreatorA.cs",
+              "RelativeDocumentMoniker": "ConcreteCreatorA.cs",
+              "ToolTip": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteCreatorA.cs",
+              "RelativeToolTip": "ConcreteCreatorA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:16:49.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\Creator.cs",
+              "RelativeDocumentMoniker": "Creator.cs",
+              "ToolTip": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\Creator.cs",
+              "RelativeToolTip": "Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:15:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteProductB.cs",
+              "DocumentMoniker": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteProductB.cs",
+              "RelativeDocumentMoniker": "ConcreteProductB.cs",
+              "ToolTip": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteProductB.cs",
+              "RelativeToolTip": "ConcreteProductB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:15:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteProductA.cs",
+              "DocumentMoniker": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteProductA.cs",
+              "RelativeDocumentMoniker": "ConcreteProductA.cs",
+              "ToolTip": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\ConcreteProductA.cs",
+              "RelativeToolTip": "ConcreteProductA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:14:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:13:32.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "Z:\\DPM225461_NguyenThiBichQuan_Pattern03_FactoryMethod\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:13:14.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

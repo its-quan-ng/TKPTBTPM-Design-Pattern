@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|e:\\tkbtpm-buoi1\\dpm225461_nguyenthibichquan_pattern04_prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|e:\\tkbtpm-buoi1\\dpm225461_nguyenthibichquan_pattern04_prototype\\concreteprototype2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|solutionrelative:concreteprototype2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|e:\\tkbtpm-buoi1\\dpm225461_nguyenthibichquan_pattern04_prototype\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|solutionrelative:prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|e:\\tkbtpm-buoi1\\dpm225461_nguyenthibichquan_pattern04_prototype\\concreteprototype1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1506F3-482A-4A4F-BD36-06DB64318D89}|DPM225461_NguyenThiBichQuan_Pattern04_Prototype.csproj|solutionrelative:concreteprototype1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcretePrototype2.cs",
+              "DocumentMoniker": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\ConcretePrototype2.cs",
+              "RelativeDocumentMoniker": "ConcretePrototype2.cs",
+              "ToolTip": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\ConcretePrototype2.cs",
+              "RelativeToolTip": "ConcretePrototype2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:03:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcretePrototype1.cs",
+              "DocumentMoniker": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\ConcretePrototype1.cs",
+              "RelativeDocumentMoniker": "ConcretePrototype1.cs",
+              "ToolTip": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\ConcretePrototype1.cs",
+              "RelativeToolTip": "ConcretePrototype1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:00:40.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prototype.cs",
+              "DocumentMoniker": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\Prototype.cs",
+              "RelativeDocumentMoniker": "Prototype.cs",
+              "ToolTip": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\Prototype.cs",
+              "RelativeToolTip": "Prototype.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:58:18.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\TKBTPM-Buoi1\\DPM225461_NguyenThiBichQuan_Pattern04_Prototype\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:57:58.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

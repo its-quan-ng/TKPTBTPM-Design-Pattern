@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real07_libraryitem\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real07_libraryitem\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|solutionrelative:video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real07_libraryitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real07_libraryitem\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|solutionrelative:decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real07_libraryitem\\borrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|solutionrelative:borrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real07_libraryitem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real07_LibraryItem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real09_LibraryItem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_real07_libraryitem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682B38D-82F9-4125-A015-2C1AF1E9EC2B}|DPM225461_NguyenThiBichQuan_Real09_LibraryItem.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:32:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrowable.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Borrowable.cs",
+              "RelativeDocumentMoniker": "Borrowable.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Borrowable.cs",
+              "RelativeToolTip": "Borrowable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:59:44.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Decorator.cs",
+              "RelativeToolTip": "Decorator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:58:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Video.cs",
+              "RelativeDocumentMoniker": "Video.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Video.cs",
+              "RelativeToolTip": "Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:56:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:54:20.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:48:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_Real07_LibraryItem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:46:39.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

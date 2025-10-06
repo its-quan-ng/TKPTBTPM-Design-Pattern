@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\icomputerpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:icomputerpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\icomputerpartvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:icomputerpartvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\pricevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:pricevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\namevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:namevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real23_computerpartsstore\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DE01E3-4D58-4BE4-BDD9-EF3ACD3BE4F1}|DPM225493_NguyenThienTri_Real23_ComputerPartsStore.csproj|solutionrelative:keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NameVisitor.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\NameVisitor.cs",
+              "RelativeDocumentMoniker": "NameVisitor.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\NameVisitor.cs*",
+              "RelativeToolTip": "NameVisitor.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:13:27.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceVisitor.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\PriceVisitor.cs",
+              "RelativeDocumentMoniker": "PriceVisitor.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\PriceVisitor.cs*",
+              "RelativeToolTip": "PriceVisitor.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:13:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IComputerPartVisitor.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\IComputerPartVisitor.cs",
+              "RelativeDocumentMoniker": "IComputerPartVisitor.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\IComputerPartVisitor.cs*",
+              "RelativeToolTip": "IComputerPartVisitor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:12:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mouse.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Mouse.cs",
+              "RelativeDocumentMoniker": "Mouse.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Mouse.cs*",
+              "RelativeToolTip": "Mouse.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:11:48.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:09:50.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IComputerPart.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\IComputerPart.cs",
+              "RelativeDocumentMoniker": "IComputerPart.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\IComputerPart.cs*",
+              "RelativeToolTip": "IComputerPart.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:10:36.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Monitor.cs",
+              "RelativeDocumentMoniker": "Monitor.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Monitor.cs*",
+              "RelativeToolTip": "Monitor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:11:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Keyboard.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Keyboard.cs",
+              "RelativeDocumentMoniker": "Keyboard.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real23_ComputerPartsStore\\Keyboard.cs*",
+              "RelativeToolTip": "Keyboard.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:11:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

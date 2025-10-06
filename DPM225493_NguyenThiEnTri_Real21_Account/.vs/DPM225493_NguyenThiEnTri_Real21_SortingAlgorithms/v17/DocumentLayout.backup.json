@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real21_account\\sortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|solutionrelative:sortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_Account.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real21_account\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_Account.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real21_account\\sortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|solutionrelative:sortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real21_account\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|solutionrelative:mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real21_account\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|solutionrelative:shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real21_account\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C33B8-5A09-4292-9094-F34885931931}|DPM225493_NguyenThiEnTri_Real21_SortingAlgorithms.csproj|solutionrelative:quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortedList.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\SortedList.cs",
+              "RelativeDocumentMoniker": "SortedList.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\SortedList.cs",
+              "RelativeToolTip": "SortedList.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:35:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\MergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\MergeSort.cs",
+              "RelativeToolTip": "MergeSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:35:13.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShellSort.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\ShellSort.cs",
+              "RelativeDocumentMoniker": "ShellSort.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\ShellSort.cs",
+              "RelativeToolTip": "ShellSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:34:36.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:34:08.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortStrategy.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\SortStrategy.cs",
+              "RelativeDocumentMoniker": "SortStrategy.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\SortStrategy.cs",
+              "RelativeToolTip": "SortStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:33:50.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThiEnTri_Real21_Account\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:31:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

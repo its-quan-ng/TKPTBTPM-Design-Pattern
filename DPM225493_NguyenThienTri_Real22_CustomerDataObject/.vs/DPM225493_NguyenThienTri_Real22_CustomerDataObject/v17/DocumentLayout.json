@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real22_customerdataobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real22_customerdataobject\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real22_customerdataobject\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|solutionrelative:categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|d:\\tkptbtpm-design-pattern\\dpm225493_nguyenthientri_real22_customerdataobject\\dataaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B73CB4-F50C-4038-AB99-BD07F44C78EA}|DPM225493_NguyenThienTri_Real22_CustomerDataObject.csproj|solutionrelative:dataaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\Products.cs",
+              "RelativeToolTip": "Products.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:23:48.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\Categories.cs",
+              "RelativeDocumentMoniker": "Categories.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\Categories.cs",
+              "RelativeToolTip": "Categories.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:22:42.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessor.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\DataAccessor.cs",
+              "RelativeDocumentMoniker": "DataAccessor.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\DataAccessor.cs",
+              "RelativeToolTip": "DataAccessor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:22:06.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Real22_CustomerDataObject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:21:41.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

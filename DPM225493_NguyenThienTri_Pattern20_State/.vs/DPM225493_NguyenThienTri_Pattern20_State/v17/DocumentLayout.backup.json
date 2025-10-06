@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,13 +53,17 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Context.cs",
               "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\Context.cs",
               "RelativeDocumentMoniker": "Context.cs",
-              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\Context.cs*",
-              "RelativeToolTip": "Context.cs*",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\Context.cs",
+              "RelativeToolTip": "Context.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T02:39:14.609Z",
@@ -71,8 +75,8 @@
               "Title": "ConcreteStateB.cs",
               "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\ConcreteStateB.cs",
               "RelativeDocumentMoniker": "ConcreteStateB.cs",
-              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\ConcreteStateB.cs*",
-              "RelativeToolTip": "ConcreteStateB.cs*",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\ConcreteStateB.cs",
+              "RelativeToolTip": "ConcreteStateB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T02:38:51.732Z",
@@ -84,8 +88,8 @@
               "Title": "ConcreteStateA.cs",
               "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\ConcreteStateA.cs",
               "RelativeDocumentMoniker": "ConcreteStateA.cs",
-              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\ConcreteStateA.cs*",
-              "RelativeToolTip": "ConcreteStateA.cs*",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\ConcreteStateA.cs",
+              "RelativeToolTip": "ConcreteStateA.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T02:38:27.881Z",
@@ -97,8 +101,8 @@
               "Title": "State.cs",
               "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\State.cs",
               "RelativeDocumentMoniker": "State.cs",
-              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\State.cs*",
-              "RelativeToolTip": "State.cs*",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\State.cs",
+              "RelativeToolTip": "State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T02:37:59.036Z",
@@ -110,16 +114,12 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "D:\\TKPTBTPM-Design-Pattern\\DPM225493_NguyenThienTri_Pattern20_State\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T02:37:19.374Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

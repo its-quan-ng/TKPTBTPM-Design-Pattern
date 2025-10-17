@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld14_remotecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld14_remotecontrol\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|solutionrelative:remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld14_remotecontrol\\lightoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|solutionrelative:lightoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld14_remotecontrol\\lightoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|solutionrelative:lightoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld14_remotecontrol\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|solutionrelative:light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld14_remotecontrol\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565FF67-C74F-48B1-A96A-A6CA55739276}|DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl.csproj|solutionrelative:icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteControl.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\RemoteControl.cs",
+              "RelativeDocumentMoniker": "RemoteControl.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\RemoteControl.cs*",
+              "RelativeToolTip": "RemoteControl.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:40:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightOffCommand.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\LightOffCommand.cs",
+              "RelativeDocumentMoniker": "LightOffCommand.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\LightOffCommand.cs*",
+              "RelativeToolTip": "LightOffCommand.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:39:44.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightOnCommand.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\LightOnCommand.cs",
+              "RelativeDocumentMoniker": "LightOnCommand.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\LightOnCommand.cs*",
+              "RelativeToolTip": "LightOnCommand.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:38:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Light.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\Light.cs",
+              "RelativeDocumentMoniker": "Light.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\Light.cs",
+              "RelativeToolTip": "Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:38:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\ICommand.cs",
+              "RelativeDocumentMoniker": "ICommand.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\ICommand.cs*",
+              "RelativeToolTip": "ICommand.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:37:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld14_RemoteControl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:37:28.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,17 +12,17 @@ namespace DPM225493_NguyenThienTri_Pattern23_Visitor
     {
         static void Main(string[] args)
         {
-            School school = new School();
-            
-            var visitor1 = new Doctor("James");
-            
-            school.PerformOperation(visitor1);
-            Console.WriteLine();
-            
-            var visitor2 = new Salesman("John");
-            
-            school.PerformOperation(visitor2);
-            Console.Read();
+            ObjectStructure o = new ObjectStructure();
+            o.Attach(new ConcreteElementA());
+            o.Attach(new ConcreteElementB());
+
+            ConcreteVisitor1 v1 = new ConcreteVisitor1();
+            ConcreteVisitor2 v2 = new ConcreteVisitor2();
+
+            o.Accept(v1);
+            o.Accept(v2);
+
+            Console.ReadKey();
         }
     }
     }

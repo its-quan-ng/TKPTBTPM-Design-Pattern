@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld10_computerstartupsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld10_computerstartupsystem\\computerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|solutionrelative:computerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld10_computerstartupsystem\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|solutionrelative:cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld10_computerstartupsystem\\harddrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|solutionrelative:harddrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld10_computerstartupsystem\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88648A30-3F78-477D-A7C9-948B617A62C6}|DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem.csproj|solutionrelative:memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputerFacade.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\ComputerFacade.cs",
+              "RelativeDocumentMoniker": "ComputerFacade.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\ComputerFacade.cs*",
+              "RelativeToolTip": "ComputerFacade.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:14:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HardDrive.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\HardDrive.cs",
+              "RelativeDocumentMoniker": "HardDrive.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\HardDrive.cs",
+              "RelativeToolTip": "HardDrive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:13:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Memory.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\Memory.cs",
+              "RelativeDocumentMoniker": "Memory.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\Memory.cs*",
+              "RelativeToolTip": "Memory.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:13:12.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CPU.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\CPU.cs",
+              "RelativeDocumentMoniker": "CPU.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\CPU.cs",
+              "RelativeToolTip": "CPU.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:12:50.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld10_ComputerStartupSystem\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:12:34.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

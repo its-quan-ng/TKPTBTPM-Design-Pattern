@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld08_filesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld08_filesystem\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|solutionrelative:folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld08_filesystem\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|solutionrelative:file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld08_filesystem\\filesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B9C464-EB6C-4760-85C1-E3B6829839D3}|DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem.csproj|solutionrelative:filesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\Folder.cs",
+              "RelativeDocumentMoniker": "Folder.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\Folder.cs",
+              "RelativeToolTip": "Folder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:52:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\File.cs",
+              "RelativeDocumentMoniker": "File.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\File.cs",
+              "RelativeToolTip": "File.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:51:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileSystemItem.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\FileSystemItem.cs",
+              "RelativeDocumentMoniker": "FileSystemItem.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\FileSystemItem.cs",
+              "RelativeToolTip": "FileSystemItem.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:50:47.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld08_FileSystem\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:49:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

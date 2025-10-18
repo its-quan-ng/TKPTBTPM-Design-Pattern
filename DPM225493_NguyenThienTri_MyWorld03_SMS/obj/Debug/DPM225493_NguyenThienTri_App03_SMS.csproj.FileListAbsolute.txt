@@ -1,0 +1,7 @@
+D:\TKPTBTPM-Design-Pattern\DPM225493_NguyenThienTri_App03_SMS\bin\Debug\DPM225493_NguyenThienTri_App03_SMS.exe.config
+D:\TKPTBTPM-Design-Pattern\DPM225493_NguyenThienTri_App03_SMS\bin\Debug\DPM225493_NguyenThienTri_App03_SMS.exe
+D:\TKPTBTPM-Design-Pattern\DPM225493_NguyenThienTri_App03_SMS\bin\Debug\DPM225493_NguyenThienTri_App03_SMS.pdb
+D:\TKPTBTPM-Design-Pattern\DPM225493_NguyenThienTri_App03_SMS\obj\Debug\DPM225493_NguyenThienTri_App03_SMS.csproj.AssemblyReference.cache
+D:\TKPTBTPM-Design-Pattern\DPM225493_NguyenThienTri_App03_SMS\obj\Debug\DPM225493_NguyenThienTri_App03_SMS.csproj.CoreCompileInputs.cache
+D:\TKPTBTPM-Design-Pattern\DPM225493_NguyenThienTri_App03_SMS\obj\Debug\DPM225493_NguyenThienTri_App03_SMS.exe
+D:\TKPTBTPM-Design-Pattern\DPM225493_NguyenThienTri_App03_SMS\obj\Debug\DPM225493_NguyenThienTri_App03_SMS.pdb

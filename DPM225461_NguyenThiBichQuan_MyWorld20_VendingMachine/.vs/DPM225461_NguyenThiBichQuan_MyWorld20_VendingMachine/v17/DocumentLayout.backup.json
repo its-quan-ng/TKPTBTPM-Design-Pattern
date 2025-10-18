@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld20_vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld20_vendingmachine\\soldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|solutionrelative:soldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld20_vendingmachine\\hascoinstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|solutionrelative:hascoinstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld20_vendingmachine\\nocoinstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|solutionrelative:nocoinstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld20_vendingmachine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|solutionrelative:vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|d:\\workspace\\csharp\\tkptbtpm\\dpm225461_nguyenthibichquan_myworld20_vendingmachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF488160-CD2C-4D36-AFA2-254F821CC533}|DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine.csproj|solutionrelative:istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoldState.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\SoldState.cs",
+              "RelativeDocumentMoniker": "SoldState.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\SoldState.cs",
+              "RelativeToolTip": "SoldState.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:34:45.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HasCoinState.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\HasCoinState.cs",
+              "RelativeDocumentMoniker": "HasCoinState.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\HasCoinState.cs",
+              "RelativeToolTip": "HasCoinState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:31:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoCoinState.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\NoCoinState.cs",
+              "RelativeDocumentMoniker": "NoCoinState.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\NoCoinState.cs",
+              "RelativeToolTip": "NoCoinState.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:26:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "VendingMachine.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\VendingMachine.cs",
+              "RelativeToolTip": "VendingMachine.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:24:06.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IState.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\IState.cs",
+              "RelativeDocumentMoniker": "IState.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\IState.cs",
+              "RelativeToolTip": "IState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:23:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\TKPTBTPM\\DPM225461_NguyenThiBichQuan_MyWorld20_VendingMachine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:20:03.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\DPM225493_NguyenThienTri_App01_PDF\bin\Debug\DPM225493_NguyenThienTri_App01_PDF.exe.config
+C:\Users\ADMIN\source\repos\DPM225493_NguyenThienTri_App01_PDF\bin\Debug\DPM225493_NguyenThienTri_App01_PDF.exe
+C:\Users\ADMIN\source\repos\DPM225493_NguyenThienTri_App01_PDF\bin\Debug\DPM225493_NguyenThienTri_App01_PDF.pdb
+C:\Users\ADMIN\source\repos\DPM225493_NguyenThienTri_App01_PDF\obj\Debug\DPM225493_NguyenThienTri_App01_PDF.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DPM225493_NguyenThienTri_App01_PDF\obj\Debug\DPM225493_NguyenThienTri_App01_PDF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DPM225493_NguyenThienTri_App01_PDF\obj\Debug\DPM225493_NguyenThienTri_App01_PDF.exe
+C:\Users\ADMIN\source\repos\DPM225493_NguyenThienTri_App01_PDF\obj\Debug\DPM225493_NguyenThienTri_App01_PDF.pdb
